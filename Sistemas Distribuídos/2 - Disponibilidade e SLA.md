@@ -1,4 +1,4 @@
-### Por que utilizar?
+### Por que utilizar Sistemas Distribuídos?
 
 Disponibilidade:
 
