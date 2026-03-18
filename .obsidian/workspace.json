@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Distribuídos/2 - Disponibilidade e SLA.md",
+                "file": "Carreira/2 - SRE e DevOps - Requisitos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Disponibilidade e SLA"
+              "title": "2 - SRE e DevOps - Requisitos"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 435.5
   },
   "right": {
     "id": "4ba19bbf56efc0a9",
@@ -185,12 +185,16 @@
   },
   "active": "0bfed3e710a1b1c3",
   "lastOpenFiles": [
-    "Pasted image 20260312002631.png",
+    "Carreira/1 - Carreira 101.md",
+    "images/Sistemas Distribuídos/2 - Disponibilidade e SLA/medindo_disponibilidade.png",
     "Sistemas Distribuídos/1 - Intro e Sistemas Distríbuidos.md",
     "Sistemas Distribuídos/2 - Disponibilidade e SLA.md",
-    "Carreira/1 - Carreira 101.md",
+    "images/Sistemas Distribuídos/2 - Disponibilidade e SLA/Pasted image 20260317210316.png",
     "Carreira/2 - SRE e DevOps - Requisitos.md",
     "Redes/1 - OSI - TCP IP.md",
+    "images/Sistemas Distribuídos/2 - Disponibilidade e SLA",
+    "images/Sistemas Distribuídos",
+    "images",
     "README.md",
     "Redes",
     "Carreira",
