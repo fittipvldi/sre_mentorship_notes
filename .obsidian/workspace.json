@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Sistemas Distribuídos/2 - Disponibilidade e SLA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2 - Disponibilidade e SLA"
             }
           }
         ]
@@ -185,17 +185,17 @@
   },
   "active": "0bfed3e710a1b1c3",
   "lastOpenFiles": [
-    "Carreira/2 - SRE e DevOps - Requisitos.md",
     "Carreira/1 - Carreira 101.md",
-    "images/Sistemas Distribuídos/2 - Disponibilidade e SLA/medindo_disponibilidade.png",
+    "Carreira/2 - SRE e DevOps - Requisitos.md",
+    "Redes/1 - OSI - TCP IP.md",
     "Sistemas Distribuídos/1 - Intro e Sistemas Distríbuidos.md",
     "Sistemas Distribuídos/2 - Disponibilidade e SLA.md",
+    "README.md",
+    "images/Sistemas Distribuídos/2 - Disponibilidade e SLA/medindo_disponibilidade.png",
     "images/Sistemas Distribuídos/2 - Disponibilidade e SLA/Pasted image 20260317210316.png",
-    "Redes/1 - OSI - TCP IP.md",
     "images/Sistemas Distribuídos/2 - Disponibilidade e SLA",
     "images/Sistemas Distribuídos",
     "images",
-    "README.md",
     "Redes",
     "Carreira",
     "Sistemas Distribuídos"
